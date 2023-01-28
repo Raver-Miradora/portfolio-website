@@ -23,4 +23,4 @@
 ✔️ Skills \
 ✔️ Contact Info\
 
-To view this website, **[click here]([https://varadbhogayata.github.io/](https://raver-miradora.github.io/portfolio-website/))**
+To view this website, <a href="https://raver-miradora.github.io/portfolio-website/"> Click here! </a>
